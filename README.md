@@ -4,6 +4,6 @@
 ### Compile
 `javac -d classes src/*.java`
 ### Run
-`java -cp classes Main zork.txt`
+`java -cp classes zork.Main zork.txt`
 ### Example
 `java -cp classes Main zork.txt`
